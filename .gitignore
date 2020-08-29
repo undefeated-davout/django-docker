@@ -1,0 +1,8 @@
+.idea/
+
+/src/*
+!/src/.gitkeep
+/static/*
+!/static/.gitkeep
+
+/web/ansible-django/*
